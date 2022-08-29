@@ -1,2 +1,2 @@
 # quote-machine
-Created with CodeSandbox
+Just a simple random quote machine. :)
